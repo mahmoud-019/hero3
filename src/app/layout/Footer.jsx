@@ -1,6 +1,6 @@
 import React from 'react'
 import Box from './Box'
-import Logo from '../components/logo'
+import Logo from './Logo'
 import { Link } from '@/src/navigation'
 import { useTranslations } from 'next-intl'
 import { FaFacebook } from "react-icons/fa";

@@ -2,7 +2,7 @@
 import { useTranslations } from 'next-intl'
 import { ThreeWay } from '../../layout/ThreeWay'
 import Box from '../../layout/Box'
-import Logo from '../../components/Logo'
+import Logo from '../../layout/Logo'
 import Link from 'next/link'
 import { CiMail } from "react-icons/ci";
 import { MdContactPhone } from "react-icons/md";

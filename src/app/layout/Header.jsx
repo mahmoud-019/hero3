@@ -6,8 +6,8 @@ import Box from './Box';
 import { CiMenuBurger } from "react-icons/ci";
 import { IoCloseOutline } from "react-icons/io5";
 import { Link } from '@/src/navigation';
-import SwitchLang from '../components/SwitchLang';
-import Logo from '../components/logo';
+import SwitchLang from './SwitchLang';
+import Logo from './Logo';
 import { usePathname } from 'next/navigation';
 
 
