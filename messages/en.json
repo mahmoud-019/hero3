@@ -1,0 +1,78 @@
+{
+  "logo": {
+    "title": "Hero one",
+    "name": " for agricultural fertilisers"
+  },
+  "navb": {
+    "home": "Home",
+    "products": "Products",
+    "about us": "About Us",
+    "contact us": "Contact Us"
+  },
+  "home": {
+    "image1": "/image/enhome1.png",
+    "image2": "/image/enhome2.png",
+    "head1": "Hero One for fertilizers and agricultural fertilizers",
+    "head2": "Why us",
+    "prag1": "From the moment of the beginning, our relationship with our customers has been a partnership in work, success, planning, and hard work. The secret of our success has always been to reach innovative solutions, which requires continuous development, hard work, and creative ideas. We play an effective and positive role in developing the fertilizer industry. We perform our work with perfection and rely on it. Based on advanced knowledge, the company provides after-sales service through a working team of consultants who provide technical support to farmers to improve quality and raise production efficiency.",
+    "prag2": "We pursue modern technology in the field of agricultural fertilizers, ensuring greater productivity of various crops. Our products guarantee quality and effectiveness in agricultural development, resulting in economic and environmental benefits for consumers due to increased agricultural yields. We adhere to Egyptian and international standards, ensuring our products are suitable for the Egyptian agricultural environment. Continuous development and constant quality control are integral to the products we offer."
+     ,"download":"download catalogue"
+  },
+  "pro": {
+    "title":"Our Products",
+    "prag":"you can explore our different types of fertilizer that cover up all your farm needs"
+  },
+  "aboutus": {
+    "head":"  WHO ARE WE",
+    "title": "About Us",
+    "prag":"Hero One Fertilizers and Agricultural Fertilizers is a leading company in manufacturing and marketing specialized fertilizers in Egypt and neighboring countries, which began its work in 2016.The company produces distinctive, high-quality fertilizers and fertilisers.The company has more than 60 commercial registrations due to the different products and their uses. We are distinguished by our high-quality NPK products, and all products are characterized by increasing the quality of the crop",
+    "messtitle":"Our Message",
+    "message":"The company produces distinctive, high-quality fertilizers and fertilisers.The company has more than 60 commercial registrations due to the different products and their uses. We are distinguished by our high-quality NPK products, and all products are characterized by increasing the quality of the crop",
+    "goaltitle":"our goal",
+    "goal":"our Goal is to become the largest company in the middle east and achieve the highest rank in fertilizer company not only locally but on a global scale "
+     ,"lead":"Our leadership",
+     "el":"Genral/Elhamy Mostafa Hefny",
+     "elp":"CEO of the company",
+     "elqt":"only with hard work you can achieve the your full potentials",
+     "ry":"Engineer\\Ramy Ghorab",
+     "ryp":"chairman of board of directors",
+     "ryqt":"",
+     "is":"Engineer\\ Israa Jalal",
+     "isp":"deputy board of directors",
+     "isqt":"",
+     "last":"check out more",
+     "gallery":"Gallery",
+     "galleryprag":"Gallery",
+     "gallerybutton":"the Gallery",
+     "cer":"Certificates",
+     "cerprag":"we ensure that the product complies with international standards Certificates",
+     "cerbutton":"our Certificates ",
+     "gallerypage":"Our Gallery"
+
+  },
+  "contact": {
+  "head":"CONTACT US",
+  "phone":"phone",
+  "phone1":"010xxxxxx6",
+  "phone2":"010xxxxxx6",
+   "mail":"mail",
+   "mailadd":"exampl@any.com",
+   "loc":"location",
+   "locadd":"heroone-next to Dar Misr Mall - Area 23-elsadat",
+   "qr":"scan with mobile or click to get our info",
+   "app":"Employment",
+   "state":"we are not in need of new employees for now we will update if we are recruiting",
+   "epage":"go to employment page",
+   "statetitle":"state"
+  },"footer": {
+    "phone": "010xxxxxx6",
+    "phonet": "phone",
+    "add": "el-sadat-here-34road",
+    "addt": "address",
+    "co": "contact us",
+    "link1": "Gallery",
+    "link2": "Certificates",
+    "link3": "employment",
+    "c": "Copyright © 2024 -hero one"
+  }
+}

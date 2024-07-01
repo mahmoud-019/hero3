@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400..700&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+*{
+   font-size: x-large;
+   letter-spacing: 1px; 
+}
+@media (max-width:900px ) {
+    *{
+        font-size: large;
+    }
+
+}
+@media (max-width:768px ) {
+    *{
+        font-size: small;
+    }
+
+}
+
+body{
+
+    font-family:Tajawal,Reem-Kufi;
+
+}
+.her{
+    background-image: url(./AboutUs/bg.jpg);
+    background-size: 1800px,800px;
+    background-position: center;
+    
+}
+.prod{
+    background-image: url(./Products/probg.png);
+    background-size: cover;
+    background-position: center;
+}
+.cont{
+    background-image: url(./ContactUs/pexels-alex-andrews-271121-821754.jpg);
+    background-size: cover;
+
+    background-position: center;
+}
+.cer{
+background-image: url(./AboutUs/cer/pexels-goumbik-669616.jpg);
+background-size: cover;
+background-position: center;
+height: 70svh;
+
+}
+.gall{
+    background-image: url(./AboutUs/Gallery/bg.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 70svh;
+    text-align: center;
+}
+.jop{
+    background-image: url(./ContactUs/jops/pexels-sora-shimazaki-5673502.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 70svh;
+}
+footer .be::before{
+    
+content: "- ";
+padding-right: 7px;
+}
