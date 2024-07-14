@@ -8,9 +8,11 @@ import Image from 'next/image';
 export default function Index() {
   const t = useTranslations('home');
   return (
-  <>
-
-    <video src="image/promo.mp4" width={1800} height={900} autoPlay loop muted ></video>
+    <>
+    {/* <video className=' absolute top-0 opacity-5' src="" width={1800} height={900} autoPlay loop muted ></video> */}
+<div className='min-h-screen max-lg:min-h-[35svh] max-md:min-h-[20svh] grid content-center justify-center relative mb-12 overflow-hidden bg-black bg-opacity-25 z-20 '>
+<video autoPlay muted loop className=' absolute top-0 z-0 opacity-85 '><source src='image/vid.mp4' type='video/mp4' /></video>
+</div>
     <Box>
 <MotionL>
   <div className='mt-10 w-11/12 ml-auto  gap-1 p-1 bg-slate-100/50 rounded-md max-md:w-full'>

@@ -34,9 +34,9 @@ useEffect(()=>{
 
   return (
     <header 
-className={nav?'z-20 fixed top-1 w-4/5  block bg-gray-600/75 left-[10%] text-sm rounded-lg text-green-300 transition duration-500 ease-linear'
+className={nav?'z-40 fixed top-1 w-4/5  block bg-green-500 left-[10%] text-sm rounded-lg text-white transition duration-500 ease-linear'
 
-:' z-20 transition duration-500 ease-linear fixed top-0 w-full items-center text-gray-200  block bg-green-400'} >
+:' z-40 transition duration-500 ease-linear fixed top-0 w-full items-center text-amber-800  block bg-transparent'} >
       {/* contaner start */}
       <Box>
         <div className='flex justify-between items-center' >
@@ -44,13 +44,13 @@ className={nav?'z-20 fixed top-1 w-4/5  block bg-gray-600/75 left-[10%] text-sm 
     {/* navigation start */}
       <nav className='flex justify-between w-5/12  max-[900px]:hidden '>
         <Link href={"/"}
-         className={path.endsWith("ar")||path.endsWith("en")?"text-blue-500   ":" hover:text-blue-500  "}>{n("home")}</Link>
+         className={path.endsWith("ar")||path.endsWith("en")?"text-blue-900   ":" hover:text-blue-900  "}>{n("home")}</Link>
         <Link href={"/Products"}
-         className={path.endsWith("Products")?"text-blue-500  ":" hover:text-blue-500  "}>{n("products")}</Link>
+         className={path.endsWith("Products")?"text-blue-900  ":" hover:text-blue-900  "}>{n("products")}</Link>
         <Link href={"/AboutUs"}
-         className={path.endsWith("AboutUs")?"text-blue-500  ":" hover:text-blue-500  "}>{n("about us")}</Link>
+         className={path.endsWith("AboutUs")?"text-blue-900  ":" hover:text-blue-900  "}>{n("about us")}</Link>
         <Link href={"/ContactUs"}
-         className={path.endsWith("ContactUs")?"text-blue-500  ":" hover:text-blue-500  "}>{n("contact us")}</Link>
+         className={path.endsWith("ContactUs")?"text-blue-900  ":" hover:text-blue-900  "}>{n("contact us")}</Link>
       </nav>
 {/* responsive icone navigation */}
 <div className=' hidden max-[900px]:flex  '  >

@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import Link from "next/link";
-import { FaArrowRight } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 export default function SupUs() {
   const t = useTranslations("aboutus");

@@ -21,7 +21,7 @@ export default async function LocaleLayout({
   const direction = getLangDir(locale);
   return (
     <html lang={locale} dir={direction} >
-      <body className='  pt-[90px] max-md:pt-28 max-sm:pt-32 '>
+      <body className='   '>
         
         <NextIntlClientProvider  messages={messages} >
           
